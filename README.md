@@ -47,8 +47,8 @@ Use SQL to:
 	- Cross-channel bid optimization
 	- Analyzing direct, brand-driven traffic
 - [Analyzing Business Patterns and Seasonality](#analyzing-business-patterns-and-seasonality)
-	-Analyzing seasonality
-	-Analyzing business patterns
+	- Analyzing seasonality
+	- Analyzing business patterns
 - [Product Analysis](#product-analysis)
 	- Analyzing product sales and product launches
 	- Analyzing product-level website pathing
