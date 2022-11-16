@@ -1,4 +1,4 @@
-# 📊 Udemy Advanced SQL: MySQL Data Analysis & Business Intelligence
+# 📊 Data Analysis & Business Intelligence of Maven Fuzzy Factory (e-commerece store)
 
 ## Introduction
 
@@ -36,13 +36,27 @@ Use SQL to:
 	- Top traffic sources
 	- Conversion rates
 	- Bid optimizations and Trend Analysis
-	
 - [Analyzing Website Performances](#analyzing-website-performances)
+	- Analyzing top website pages and entry pages
+	- Analyzing bounce rates and lading page tests
+	- Building conversion funnels and testing conversion paths
 - [Mid-Course Project](#mid-course-project)
 - [Analysis for Channel Portfolio Management](#analysis-for-channel-portfolio-management)
+ 	- Analyzing channel portfolios
+	- Comparing channel characteristics
+	- Cross-channel bid optimization
+	- Analyzing direct, brand-driven traffic
 - [Analyzing Business Patterns and Seasonality](#analyzing-business-patterns-and-seasonality)
+	-Analyzing seasonality
+	-Analyzing business patterns
 - [Product Analysis](#product-analysis)
+	- Analyzing product sales and product launches
+	- Analyzing product-level website pathing
+	- Building product-level conversion funnels
+	- Cross-sell analysis
+	-Analyzing product refund rates
 - [User Analysis](#user-analysis)
+	- Analyzing repeat visit and purchase behavior
 - [Final Project](#final-project)
 
 ## Entity Relationship Diagram
