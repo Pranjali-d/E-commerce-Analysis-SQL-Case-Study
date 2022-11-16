@@ -33,6 +33,10 @@ Use SQL to:
 
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Analyzing Traffic Sources](#analyzing-traffic-sources)
+	- Top traffic sources
+	- Conversion rates
+	- Bid optimizations and Trend Analysis
+	
 - [Analyzing Website Performances](#analyzing-website-performances)
 - [Mid-Course Project](#mid-course-project)
 - [Analysis for Channel Portfolio Management](#analysis-for-channel-portfolio-management)
